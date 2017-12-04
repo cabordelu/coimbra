@@ -1,0 +1,5 @@
+C:\SVNMantenimiento\Coimbra\WebService\CoimbraService\bin\CoimbraService.dll
+C:\SVNMantenimiento\Coimbra\WebService\CoimbraService\bin\CoimbraService.pdb
+C:\SVNMantenimiento\Coimbra\WebService\CoimbraService\obj\Debug\ResolveAssemblyReference.cache
+C:\SVNMantenimiento\Coimbra\WebService\CoimbraService\obj\Debug\CoimbraService.dll
+C:\SVNMantenimiento\Coimbra\WebService\CoimbraService\obj\Debug\CoimbraService.pdb

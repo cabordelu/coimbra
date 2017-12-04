@@ -1,0 +1,8 @@
+<publishData>
+  <publishTarget publishUrl="C:\SVNMantenimiento\Coimbra\WebService\Publicacion\">
+    <file relUrl="bin/CoimbraService.dll" publishTime="12/04/2017 12:17:33" />
+    <file relUrl="bin/CoimbraService.pdb" publishTime="12/04/2017 12:17:33" />
+    <file relUrl="CoimbraService.asmx" publishTime="12/04/2017 12:16:49" />
+    <file relUrl="Web.config" publishTime="12/04/2017 12:16:25" />
+  </publishTarget>
+</publishData>
