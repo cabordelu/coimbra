@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="CoimbraService.asmx.cs" Class="CoimbraService.Service1" %>
